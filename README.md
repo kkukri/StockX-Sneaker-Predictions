@@ -12,7 +12,7 @@ Hello! This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduc
 - @shermaineng - Exploratory Data Analysis
 
 ## Motivation
-This is a pair of Nike x Off-White Air Jordan 1 Chicago. It is currently retailed at USD$23,769, a more than 125 times markup from its initial price in 2017 which was USD$190. The reselling of sneakers have been up and rising. The once niche market of sneakers resale has been growing into a USD$79 billion business.
+This is a pair of Nike x Off-White Air Jordan 1 Chicago. It is currently retailed at USD$23,769, a more than 125 times markup from its initial price in 2017 which was USD$190. The reselling of sneakers have been up and rising. The once niche market of sneakers resale has been growing into a USD$79 billion business. SneakerX is one of the largest platform for online resell of sneakers, where sellers and buyers are matched through asking and bidding for sneakers, much like the NYSE. Using data sets privided by stockX, we aim to provide a quantative analysis into the lucrative sneaker resell business and find the next pair of sneaker that will bring your wealth to the moon. 
 
 
 ![Sneaker](https://github.com/klaustan/StockX-Sneaker-Predictions/blob/main/Slides/Sneaker.png)

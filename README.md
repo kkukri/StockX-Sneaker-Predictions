@@ -12,7 +12,9 @@ This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduction to
 - @shermaineng - Exploratory Data Analysis
 
 ## Problem
-- How do we know which new releases of sneakers can be sold for abnormally high profits?
+- Anomaly identification: Through the analysis of historical transaction data, are we able to identify sneakers that were sold at disproportionally high prices
+
+- Predictive analysis: Can we build a predictive model to identify the pattern behind these highly profitable sneakers, allowing sneakerheads to exploit opportunities in future sneaker launches and resell for high profits
 
 ## Models
 1. Random Forests

@@ -26,6 +26,10 @@ This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduction to
 2. Cost Complexity Pruning
 3. k-Fold Cross Validation
 
+## Conclusion & Insights
+- Shoe Sizes -- 8.75  to 10.75 most likely to yield unusually high profits due to high market demand, above 15 is also highly profitable due limited market supply
+- Shoe Colours -- White / Colourful most likely to yield unusually high profits due to them being popular colourways, Grey most likely to yield sub-par profits and should be avoided
+
 ## References
 - https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
 - https://matplotlib.org/3.5.0/tutorials/index.html

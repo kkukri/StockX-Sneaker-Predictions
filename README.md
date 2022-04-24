@@ -26,9 +26,25 @@ This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduction to
 2. Cost Complexity Pruning
 3. k-Fold Cross Validation
 
+## What we have learned
+- Usage of various outside sources to improve data preparation for analysis
+- Usage of various visualisation tools like MatPlotLib and SeaBorn
+- MatPlotLib style sheets
+- Other visualisation models such as further multi-variate visualisations
+- Unsupervised Learning Models such as DBScan in order to cluster data and find outliers
+- Gradient Boosting Algorithms such as XGBoost Classifiers
+- Ensemble Learning such as Random Forest Classifiers
+- Recursive Feature Elimination & Logistic Regression, including other Learning techniques
+- K-Fold Cross Validations to verify model across the entire dataset
+
 ## Conclusion & Insights
-- Shoe Sizes -- 8.75  to 10.75 most likely to yield unusually high profits due to high market demand, above 15 is also highly profitable due limited market supply
-- Shoe Colours -- White / Colourful most likely to yield unusually high profits due to them being popular colourways, Grey most likely to yield sub-par profits and should be avoided
+- Shoe Sizes: 8.75  to 10.75 most likely to yield unusually high profits due to high market demand, above 15 is also highly profitable due limited market supply
+- Shoe Colours: White / Colourful most likely to yield unusually high profits due to them being popular colourways, Grey most likely to yield sub-par profits and should be avoided
+
+## Future Implementations of the Project
+- Our models are unable to perform a time-dependent or sequential analysis to predict when is the optimal time in selling the sneakers, despite being able to identify sneakers that have potential to achieve highly profitable returns.
+- Our models are unable to identify the similarities and differences in the design elements across different models, and quantify these design variables into our predictions. 
+- Future models can consider analysis convolutional neural networks by looking at design elements which give rise to popularities of shoes.
 
 ## References
 - https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
@@ -36,8 +52,11 @@ This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduction to
 - https://www.analyticsvidhya.com/blog/2020/10/cost-complexity-pruning-decision-trees/
 - https://machinelearningmastery.com/rfe-feature-selection-in-python/
 - https://machinelearningmastery.com/xgboost-for-imbalanced-classification/
--- https://machinelearningmastery.com/avoid-overfitting-by-early-stopping-with-xgboost-in-python/
+- https://machinelearningmastery.com/avoid-overfitting-by-early-stopping-with-xgboost-in-python/
 - https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f
 - https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+- https://medium.com/@dilip.voleti/dbscan-algorithm-for-fraud-detection-outlier-detection-in-a-data-set-60a10ad06ea8
+- https://medium.com/@tarammullin/dbscan-parameter-estimation-ff8330e3a3bd
+
 
 

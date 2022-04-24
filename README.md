@@ -28,7 +28,7 @@ This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduction to
 
 ## What we have learned
 - Usage of various outside sources to improve data preparation for analysis
-- Usage of various visualisation tools like MatPlotLib and SeaBorn
+- Further understanding of various visualisation tools like MatPlotLib and SeaBorn
 - MatPlotLib style sheets
 - Other visualisation models such as further multi-variate visualisations
 - Unsupervised Learning Models such as DBScan in order to cluster data and find outliers

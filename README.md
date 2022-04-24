@@ -36,6 +36,7 @@ This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduction to
 - Ensemble Learning such as Random Forest Classifiers
 - Recursive Feature Elimination & Logistic Regression, including other Learning techniques
 - K-Fold Cross Validations to verify model across the entire dataset
+- Collaboration on Google Colab and GitHub
 
 ## Conclusion & Insights
 - Shoe Sizes: 8.75  to 10.75 most likely to yield unusually high profits due to high market demand, above 15 is also highly profitable due limited market supply

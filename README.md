@@ -17,7 +17,14 @@ This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduction to
 ## Models
 1. Random Forests
 2. XGBoost Classifier
-3. 
+3. DBScan
+4. Recursive Feature Elimination
+5. Logistic Regression
+
+## Other Techniques
+1. SMOTEENN Sampling
+2. Cost Complexity Pruning
+3. k-Fold Cross Validation
 
 ## References
 - https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/

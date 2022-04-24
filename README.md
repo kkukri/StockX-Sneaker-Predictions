@@ -6,4 +6,7 @@ This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduction to
 3. [Outlier Identification](https://github.com/klaustan/StockX-Sneaker-Predictions/blob/main/outlier-identification.ipynb)
 4. [Outlier Prediction Classifier Models](https://github.com/klaustan/StockX-Sneaker-Predictions/blob/main/outlier-prediction-classifier-models.ipynb)
 
+## Project Collaborators
+- @Frogopot -
+- @shermaineng -
 

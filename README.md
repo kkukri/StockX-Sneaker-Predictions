@@ -1,3 +1,3 @@
 # StockX Sneaker Predictions for Profits
 ## About
-StockX-Sneaker-Predictions Mini Project for SC1015 - Introduction to Data Science &amp; Artificial Intelligence
+This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduction to Data Science & Artificial Intelligence

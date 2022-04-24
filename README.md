@@ -7,6 +7,26 @@ This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduction to
 4. [Outlier Prediction Classifier Models](https://github.com/klaustan/StockX-Sneaker-Predictions/blob/main/outlier-prediction-classifier-models.ipynb)
 
 ## Project Collaborators
-- @Frogopot -
-- @shermaineng -
+- @klaustan - Outlier Prediction Classifier Models
+- @Frogopot - Data Preparation, Outlier Identification
+- @shermaineng - Exploratory Data Analysis
+
+## Problem
+- How do we know which new releases of sneakers can be sold for abnormally high profits?
+
+## Models
+1. Random Forests
+2. XGBoost Classifier
+3. 
+
+## References
+- https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+- https://matplotlib.org/3.5.0/tutorials/index.html
+- https://www.analyticsvidhya.com/blog/2020/10/cost-complexity-pruning-decision-trees/
+- https://machinelearningmastery.com/rfe-feature-selection-in-python/
+- https://machinelearningmastery.com/xgboost-for-imbalanced-classification/
+-- https://machinelearningmastery.com/avoid-overfitting-by-early-stopping-with-xgboost-in-python/
+- https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f
+- https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+
 

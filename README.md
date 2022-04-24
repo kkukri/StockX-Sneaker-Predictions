@@ -11,6 +11,8 @@ Hello! This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduc
 - @Frogopot - Data Preparation, Outlier Identification
 - @shermaineng - Exploratory Data Analysis
 
+
+![Sneaker](https://github.com/klaustan/StockX-Sneaker-Predictions/blob/main/Slides/Sneaker.png)
 ## Problem
 - Anomaly identification: Through the analysis of historical transaction data, are we able to identify sneakers that were sold at disproportionally high prices
 

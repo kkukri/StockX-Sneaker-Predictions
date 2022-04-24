@@ -1,6 +1,6 @@
 # StockX Sneaker Predictions for Profits
 ## About
-This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduction to Data Science & Artificial Intelligence. Dataset taken is from the [StockX Sneaker Data Contest](https://www.kaggle.com/datasets/hudsonstuck/stockx-data-contest). Please view our project code in order from:
+Hello! This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduction to Data Science & Artificial Intelligence. Dataset taken is from the [StockX Sneaker Data Contest](https://www.kaggle.com/datasets/hudsonstuck/stockx-data-contest). Please view our project code in order from:
 1. [Data Extraction & Preparation](https://github.com/klaustan/StockX-Sneaker-Predictions/blob/main/data-preparation.ipynb)
 2. [Exploratory Data Analysis](https://github.com/klaustan/StockX-Sneaker-Predictions/blob/main/exploratory-data-analysis.ipynb)
 3. [Outlier Identification](https://github.com/klaustan/StockX-Sneaker-Predictions/blob/main/outlier-identification.ipynb)
@@ -48,6 +48,8 @@ This is our StockX Sneaker Predictions Mini Project for SC1015 - Introduction to
 - Our models are unable to perform a time-dependent or sequential analysis to predict when is the optimal time in selling the sneakers, despite being able to identify sneakers that have potential to achieve highly profitable returns.
 - Our models are unable to identify the similarities and differences in the design elements across different models, and quantify these design variables into our predictions. 
 - Future models can consider analysis convolutional neural networks by looking at design elements which give rise to popularities of shoes.
+
+Thank you!
 
 ## References
 - https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
